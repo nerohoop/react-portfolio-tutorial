@@ -10,7 +10,7 @@ root.render(
   // StrictMode is a tool for highlighting potential problems in an application
   // It activates additional checks and warnings for its descendants
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/react-portfolio-tutorial">
       <App />
     </BrowserRouter>
   </React.StrictMode>
