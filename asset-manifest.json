@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-tutorial/static/css/main.488d3799.css",
+    "main.js": "/react-portfolio-tutorial/static/js/main.d5c1a6e2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio-tutorial/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": "/react-portfolio-tutorial/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/react-portfolio-tutorial/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/react-portfolio-tutorial/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/react-portfolio-tutorial/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio-tutorial/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portfolio-tutorial/index.html",
+    "main.488d3799.css.map": "/react-portfolio-tutorial/static/css/main.488d3799.css.map",
+    "main.d5c1a6e2.js.map": "/react-portfolio-tutorial/static/js/main.d5c1a6e2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio-tutorial/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.488d3799.css",
+    "static/js/main.d5c1a6e2.js"
+  ]
+}
